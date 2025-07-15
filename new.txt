@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first line change branch2
 afadfaffafg
+=======
+first line change 123123124
+>>>>>>> 89bbf69a23b542dcaa31fec08d8691e4bdc302fe
